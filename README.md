@@ -96,6 +96,7 @@ Configuring New Or Existing GPO With The GenCounter System Service To NOT Start 
 <BR><BR>
 Creating A Storage Account In Entra For Service Principal Access With Immutable Storage Policy = https://gist.github.com/zjorz/0c87761d341ff1c0907b2f046a203e90
 <BR><BR>
+<BR><BR>
 **EID - Applications**:
 <BR><BR>
 Creating An Application In Entra ID = https://gist.github.com/zjorz/dc218058a1fb11bd401632e15245ed8a
