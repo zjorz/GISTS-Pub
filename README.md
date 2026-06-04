@@ -12,6 +12,8 @@ Create a DSRM Placeholder Account in AD for RODCs = https://gist.github.com/zjor
 <BR><BR>
 Creating And Configuring The PSO For DSRM Placeholder Accounts = https://gist.github.com/zjorz/83523ecb5cdffa974e959f280ab3469b
 <BR><BR>
+Creating And Configuring The AuthN Policy For DSRM Placeholder Accounts = https://gist.github.com/zjorz/061e56de829e82e86005aed6dd07b6e7
+<BR><BR>
 Reset the DSRM Placeholder Account password for RWDCs while removing (allowing sync) or adding (denying sync) restrictions = https://gist.github.com/zjorz/2f22beabedb1f0f68e172a1c6377842f
 <BR><BR>
 Reset the DSRM Placeholder Account password for RODCs while removing (allowing sync) or adding (denying sync) restrictions = https://gist.github.com/zjorz/fc6a4f33539fcfaaa11a6c11c564f37d
