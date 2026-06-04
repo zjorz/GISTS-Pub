@@ -1,9 +1,10 @@
-# ADDS - Default Domain Admin Account Management:
+## ADDS - Default Domain Admin Account Management:
 <BR>
 Securing the default domain admin account = https://gist.github.com/zjorz/fea7f1a5b61dd2f74e1de48ad49c60e7
 <BR><BR>
 <BR><BR>
-# ADDS - DSRM Account Management:
+
+## ADDS - DSRM Account Management:
 <BR><BR>
 Create a DSRM Placeholder Account in AD for RWDCs = https://gist.github.com/zjorz/f7d8dd924daddc8b9023dc2be358049b
 <BR><BR>
@@ -22,12 +23,14 @@ Triggering Scheduled Task On DCs On Demand To Initiate DSRM Password Sync = http
 Displaying The DSRM Sync State Across All DCs In The AD Domain = https://gist.github.com/zjorz/aa9a8d8edc4da25043a0a757aee22006
 <BR><BR>
 <BR><BR>
-# ADDS - KDS Root Keys:
+
+## ADDS - KDS Root Keys:
 <BR><BR>
 Configuring The SACL On The "Master Root Keys" Container To Audit Access To KDS Root Keys = https://gist.github.com/zjorz/f1a72c03e6e75589aa401df61a9aaad8
 <BR><BR>
 <BR><BR>
-# ADDS - Managed Service Accounts (MSA):
+
+## ADDS - Managed Service Accounts (MSA):
 <BR><BR>
 Get The Relevant Data From All sMSAs (Stand-Alone Managed Service Accounts) In The AD Domain = https://gist.github.com/zjorz/1d454aaa7c8fb7f0a696092b332af49b
 <BR><BR>
@@ -40,24 +43,28 @@ Protecting MSA Container From (Accidental) Deletion = https://gist.github.com/zj
 Reconfiguring the definition and location of the MSA container in the otherWellKnownObjects On Domain NC Head = https://gist.github.com/zjorz/ac3cdd4c7036297971c34595529ff34d
 <BR><BR>
 <BR><BR>
-# ADDS - Read-Only Domain Controllers (RODC):
+
+## ADDS - Read-Only Domain Controllers (RODC):
 <BR><BR>
 Purging The Secrets Of An Account (User/Computer/sMSA/gMSA/dMSA) From Targeted RODC = https://gist.github.com/zjorz/a6b819047638a4103c37ee087e688c57
 <BR><BR>
 Pre-Populating The Secrets Of An Account (User/Computer/sMSA/gMSA/dMSA) On Targeted RODC = https://gist.github.com/zjorz/aecdb9aacdcdf5fe37c1d7c42ef9ec60
 <BR><BR>
 <BR><BR>
-# ADDS - Delegation Of Control:
+
+## ADDS - Delegation Of Control:
 <BR><BR>
 Finding All Candidate EXPLICIT Allow ACEs To Investigate For dMSA Abuse In AD Domain = https://gist.github.com/zjorz/06a5cfa5211aaf40092effe9647fdd08
 <BR><BR>
 <BR><BR>
-# ADDS - DFSR:
+
+## ADDS - DFSR:
 <BR><BR>
 Fixing Broken DFS-R Replication Group (SYSVOL) Replication Between All Replication Group Members While Assigning A Primary Member As Source = https://gist.github.com/zjorz/5a74f785bc0ff1f8a96533ba347541b2
 <BR><BR>
 <BR><BR>
-# ADDS - Bad Successor:
+
+## ADDS - Bad Successor:
 <BR><BR>
 Bad Successor - VIEW STATE OF BLOCK v2 = https://gist.github.com/zjorz/4ebc3be86656810b8029d1e134ef507a
 <BR><BR>
@@ -80,24 +87,28 @@ Bad Successor - ADDING/ENABLING BLOCK v1 = https://gist.github.com/zjorz/30e2eb1
 Bad Successor - REMOVING/DISABLING BLOCK v1 = https://gist.github.com/zjorz/53d82183997052dee689ced25c97f878
 <BR><BR>
 <BR><BR>
-# WINDOWS - Certificates And Private Key Management:
+
+## WINDOWS - Certificates And Private Key Management:
 <BR><BR>
 Permission The Private Key Associated With A Certificate With Allow:Read For A Specific Account = https://gist.github.com/zjorz/9e353a12d43c927a1eddab65b0fdff4a
 <BR><BR>
 Generate Self-Signed Certificate That Can be Used For Multiple Purposes = https://gist.github.com/zjorz/8f67712d259c440140e9d254322286c0
 <BR><BR>
 <BR><BR>
-# WINDOWS - Generic:
+
+## WINDOWS - Generic:
 <BR><BR>
 Configuring New Or Existing GPO With The GenCounter System Service To NOT Start (i.e., Disable Generation ID) = https://gist.github.com/zjorz/a8995e9b6e9d3d091a04c5c7b952b05a
 <BR><BR>
 <BR><BR>
-# Azure - Storage Accounts:
+
+## Azure - Storage Accounts:
 <BR><BR>
 Creating A Storage Account In Entra For Service Principal Access With Immutable Storage Policy = https://gist.github.com/zjorz/0c87761d341ff1c0907b2f046a203e90
 <BR><BR>
 <BR><BR>
-# EID - Applications:
+
+## EID - Applications:
 <BR><BR>
 Creating An Application In Entra ID = https://gist.github.com/zjorz/dc218058a1fb11bd401632e15245ed8a
 <BR><BR>
